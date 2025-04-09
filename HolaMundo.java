@@ -2,6 +2,6 @@
 // click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
 public class HolaMundo {
     public static void main(String[] args) {
-        System.out.println("Hola Mundo!!!!");
+        System.out.println("Catalina Quidel");
     }
 }
